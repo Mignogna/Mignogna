@@ -1,4 +1,5 @@
-<img align="right"  alt="Girl with blue eye" height="280" src="https://png.pngtree.com/png-clipart/20240812/original/pngtree-a-design-of-cartoon-girl-with-blue-eyes-and-black-shirt-png-image_15754842.png">
+
+<img align="right" height="280" src="https://github.com/user-attachments/assets/c5e71134-6237-4adb-a784-886f9e1af4c3" alt="Girls working">
 
 # Helena Mignogna
 ## Frontend Developer
