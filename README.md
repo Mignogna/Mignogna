@@ -11,6 +11,7 @@
 https://mignogna.github.io/helena-portfolio/
 
 
+
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML icon" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS icon" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,6 +24,8 @@ https://mignogna.github.io/helena-portfolio/
 <img align="left" alt="Git icon" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub icon" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Figma icon" width="35px" height="40px" style="padding-right:10px;" src="https://vectorseek.com/wp-content/uploads/2023/07/Figma-Logo-Png-Vector.svg-.png" />
+<img align="left" alt="Figma icon" width="60px" height="65px" style="padding-right:10px;" src="https://d24wuq6o951i2g.cloudfront.net/img/events/id/457/457382814/assets/e09.notion-logo_clipped_rev_1.png" />
+<img align="left" alt="Figma icon" width="35px" height="40px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" />
 <br /><br/>
 
 ### 📊 Stats
