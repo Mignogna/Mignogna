@@ -8,11 +8,9 @@
 👋<i>Hello World! I am a professional seeking a career transition and have been studying programming languages for over two years. I have taken online courses and watched various tutorials on YouTube that have enriched my knowledge.</i>
 
 ### 🔗 Portfolio Link
-[**Clique aqui para acessar meu portfolio**](https://mignogna.github.io/helena-portfolio/)
+[**Clique aqui para acessar meu portfólio**](https://mignogna.github.io/helena-portfolio/)
 
-<a href="https://mignogna.github.io/helena-portfolio/" target="_blank"> Meu Portfolio</a>
-
-
+[***Click here to access my portfolio***](https://mignogna.github.io/helena-portfolio/)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML icon" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
