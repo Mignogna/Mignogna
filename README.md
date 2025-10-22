@@ -27,7 +27,7 @@
 <img  alt="Figma icon" width="35px" height="40px" style="padding-right:10px;" src="https://vectorseek.com/wp-content/uploads/2023/07/Figma-Logo-Png-Vector.svg-.png" title="Figma"/>
 <img  alt="Notin icon" width="60px" height="65px" style="padding-right:10px;" src="https://d24wuq6o951i2g.cloudfront.net/img/events/id/457/457382814/assets/e09.notion-logo_clipped_rev_1.png" title="Notion"/>
 <img  alt="AWS icon" width="35px" height="40px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" title="AWS" />
-<img  alt="Diagrams.net icon" width="35px" height="40px" style="padding-right:10px;" src="https://cdn-1.webcatalog.io/catalog/diagramsnet/diagramsnet-icon-filled.png" title="Diagrams.net"/><br/>
+<img  alt="Diagrams.net icon" width="35px" height="40px" style="padding-right:10px;" src="https://cdn-1.webcatalog.io/catalog/diagramsnet/diagramsnet-icon-filled.png" title="Diagrams.net"/>
 <img alt="Power Bi icon" width="45px" height="50px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" title="Power Bi" />
 </div>
 <br /><br/>
