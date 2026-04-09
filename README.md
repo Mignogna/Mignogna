@@ -7,10 +7,7 @@
 👋 Hello World!Sou uma profissional em busca de transação de carreira, estudando linguagem de programação há mais de dois anos. Tenho feito cursos online e assistido a vários tutoriais no YouTube que enriqueceram meu conhecimento.<br> <br>
 👋<i>Hello World! I am a professional seeking a career transition and have been studying programming languages for over two years. I have taken online courses and watched various tutorials on YouTube that have enriched my knowledge.</i>
 
-### 🔗 Portfolio Link
-[**Clique aqui para acessar meu portfólio**](https://mignogna.github.io/helena-portfolio/)
-
-[***Click here to access my portfolio***](https://mignogna.github.io/helena-portfolio/)
+### 🔗 [**Portfolio Link**](https://mignogna.github.io/helena-portfolio/)
 
 ### 🧰 Languages and Tools
 <div align="left" >
